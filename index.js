@@ -1,3 +1,4 @@
 function change() {
-    // your code goes here
+    const titledoc = document.querySelector("#titleId")
+    titledoc.textContent = "Hola caracola";
 }
